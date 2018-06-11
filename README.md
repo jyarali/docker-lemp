@@ -10,7 +10,7 @@ Lemp :
 ## how to use:
 
 1. first clone this repo
-2. go to project directory `cd lemp`
+2. go to project directory `cd docker-lemp`
 3. run command `docker-compose up -d` on your terminal
 4. enjoy
 
