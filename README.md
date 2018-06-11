@@ -17,7 +17,12 @@ Lemp :
 ## files and directories structure:
 
 `logs` directory: contains logs of Nginx webserver
+ 
 `mysql` directory: contains mariadb databases,logs, ...
+
 `nginx` directory: contains nginx webserver config
+
 `php` directory: contains php configs(php.ini)
+
 `public` directory: this is webserver *document root*
+
